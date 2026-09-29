@@ -2,6 +2,9 @@
 
 A full-stack URL shortener with QR code generation built with React, Node.js, Express, and MongoDB.
 
+<img width="1000" height="562" alt="Screenshot (350)" src="https://github.com/user-attachments/assets/ecc46450-aeef-46ab-9c82-b42970773e27" />
+
+
 ## Features
 
 - Shorten long URLs into compact links
